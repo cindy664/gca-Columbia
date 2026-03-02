@@ -1,4 +1,124 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "Columbia University",
+    "abbreviation": "Columbia",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#B9D9EB",
+    "primaryBrandColor": "#1D4F91",
+    "buttonColor": "#1D4F91",
+    "buttonTextColor": "#FFFFFF",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/Columbia-Logo-Blue.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/Columbia-Logo-Blue.png",
+    "partner_id": "001Rd00000L4G6vIAF",
+    "programName": "Columbia Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": null,
+    "startDate": "May 26",
+    "endDate": "August 14"
+  },
+  {
+    "item": "about",
+    "schoolname": "Columbia University",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "116th and Broadway, New York, NY 10027",
+    "abbreviation": "Columbia",
+    "phone": "(332) 323-6549",
+    "credits": "<b style='color:red;'>null</>",
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": null,
+    "abbreviation": "Columbia",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Columbia University",
+    "trackTitle": "Digital Marketing Track",
+    "credits": null,
+    "abbreviation": "Columbia",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 14",
+    "term2StartDate": "September 8",
+    "term2EndDate": "December 23"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Columbia University",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": null,
+    "abbreviation": "Columbia",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 14",
+    "term2StartDate": "September 8",
+    "term2EndDate": "December 23"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Columbia University",
+    "trackTitle": "Data Analytics Track",
+    "credits": null,
+    "abbreviation": "Columbia",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 14",
+    "term2StartDate": "September 8",
+    "term2EndDate": "December 23"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Columbia University",
+    "trackTitle": "Coding for Data Track",
+    "credits": null,
+    "abbreviation": "Columbia",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 14",
+    "term2StartDate": "September 8",
+    "term2EndDate": "December 23"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Columbia University",
+    "trackTitle": "Career Rotation Track",
+    "credits": null,
+    "abbreviation": "Columbia",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 14",
+    "term2StartDate": "September 8",
+    "term2EndDate": "December 23"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "Columbia Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(332) 323-6549",
+    "abbreviation": "Columbia"
+  },
+  {
+    "item": "begin",
+    "credits": null,
+    "abbreviation": "Columbia",
+    "phone": "(332) 323-6549"
+  }
+]
